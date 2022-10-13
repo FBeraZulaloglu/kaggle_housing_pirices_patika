@@ -9,6 +9,6 @@ STEPS:
 5. Predict
 6. Upload the submission to the Kaggle platform
 
-data: https://www.kaggle.com/competitions/home-data-for-ml-course/data
-patika: www.patika.dev
-random forest = https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+- data: https://www.kaggle.com/competitions/home-data-for-ml-course/data
+- patika: www.patika.dev
+- random forest = https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
